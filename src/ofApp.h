@@ -20,9 +20,15 @@ class ofApp : public ofBaseApp{
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
 	private:
-		string text;
 		int xPos;
 		int yPos;
 		int xSpeed;
 		int ySpeed;
+		ofRectangle Player1;
+		ofRectangle Player2;
+		ofRectangle Puck;
+		bool CollisionCheck=false;
+		ofImage bg;
+		ofSoundPlayer music;
+
 };
