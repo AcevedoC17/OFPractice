@@ -1,6 +1,6 @@
 obj/msys2/Release/src/ofApp.o: \
- D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/apps/myApps/pa0-pa0-jonathan-y-carlos/src/ofApp.cpp \
- D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/apps/myApps/pa0-pa0-jonathan-y-carlos/src/ofApp.h \
+ D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/apps/myApps/OFPractice/src/ofApp.cpp \
+ D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/apps/myApps/OFPractice/src/ofApp.h \
  D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/openFrameworks/ofMain.h \
  D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/openFrameworks/utils/ofConstants.h \
  D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/tess2/include/tesselator.h \
@@ -351,7 +351,7 @@ obj/msys2/Release/src/ofApp.o: \
  D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/openFrameworks/3d/of3dUtils.h \
  D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/openFrameworks/3d/ofCamera.h \
  D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/openFrameworks/3d/ofEasyCam.h
-D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/apps/myApps/pa0-pa0-jonathan-y-carlos/src/ofApp.h:
+D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/apps/myApps/OFPractice/src/ofApp.h:
 D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/openFrameworks/ofMain.h:
 D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/openFrameworks/utils/ofConstants.h:
 D:/Downloads/Programs/OpenFrameworks/of_v0.11.0_msys2_release/libs/tess2/include/tesselator.h:
