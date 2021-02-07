@@ -2,31 +2,17 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    xPos = ofRandom(ofGetWidth());
-    yPos = ofRandom(ofGetHeight());
-    xSpeed = 5;
-    ySpeed = 5;
-    text = "Project PA0: Carlos & Edgael";
 
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
-    if(xPos >= ofGetWidth() || xPos <= 0){
-        xSpeed *= -1;
-    }
-    if(yPos >= ofGetHeight() || yPos <= 0){
-        ySpeed *=-1;
-    }
-    xPos += xSpeed;
-    yPos += ySpeed;
+ 
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    ofDrawBitmapString(xPos, ofGetWidth()/2, ofGetHeight()/2);
-    ofDrawBitmapString(yPos, ofGetWidth()/2, ofGetHeight()/2 + 25);
-    ofDrawBitmapString(text, xPos,yPos);
+
 }
 
 //--------------------------------------------------------------
